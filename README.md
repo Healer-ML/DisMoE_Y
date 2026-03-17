@@ -9,7 +9,7 @@
 
 **Official implementation of the ICME 2026 paper**
 <div align="center">
-  <img src="img.png" alt="DisMoE Framework" width="80%">
+  <img src="img.png" alt="DisMoE Framework" width="95%">
 </div>
 </div>
 
