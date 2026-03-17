@@ -9,25 +9,6 @@
 
 **Official implementation of the ICME 2026 paper**
 
-</div>
-
----
-
-## 📌 Overview
-
-Micro-expression recognition (MER) aims to detect genuine emotions through subtle and transient facial movements. Existing methods often rely on apex annotations and precise prior knowledge, while struggling to capture comprehensive temporal dynamics. To address these limitations, we propose **DisMoE**, a **Distillation-Driven Mixture of Frame-Level Experts** framework for robust MER.
-
-DisMoE introduces:
-
-- **Dynamic Interval Sampling (DIS)** to adaptively select temporal subsequences without requiring apex annotations;
-- **Continuous Attention (CA)** to refine emotion-relevant spatial cues and enhance temporal feature modeling;
-- **Mixture-of-Experts (MoE)** to dynamically fuse motion cues from multiple frame-level experts;
-- **Frame-level Distillation (FD)** to transfer complementary knowledge across frames and improve temporal coherence and discriminability.
-
-Extensive experiments on four benchmark datasets — **CASME II**, **SAMM**, **SMIC-HS**, and **CAS(ME)$^3$** — show that DisMoE consistently outperforms state-of-the-art methods in both **accuracy** and **robustness**.
-
----
-
 ## 📰 News
 
 - **[2026]** 🎉 Our paper **“DisMoE: Can Distillation-Driven Frame-Level Mixture-of-Experts Enable Robust Micro-Expression Recognition?”** is accepted by **ICME 2026**.
