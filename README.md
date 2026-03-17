@@ -8,9 +8,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red.svg)]()
 
 **Official implementation of the ICME 2026 paper**
-<div align="center">
-  <img src="img.png" alt="DisMoE Framework" width="95%">
-</div>
+
 </div>
 
 ---
@@ -66,8 +64,9 @@ The framework consists of four main components:
 2. **Continuous Attention (CA)** for refining subtle facial motion cues;  
 3. **Mixture-of-Experts (MoE)** for dynamic fusion of frame-level motion representations;  
 4. **Frame-level Distillation (FD)** for transferring complementary information across frames.  
-
-> Please place your framework figure in `assets/framework.png`.
+<div align="center">
+  <img src="img.png" alt="DisMoE Framework" width="95%">
+</div>
 
 ---
 
