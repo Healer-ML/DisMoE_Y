@@ -52,17 +52,3 @@ The framework consists of four main components:
 
 ---
 
-## 📂 Repository Structure
-
-```text
-DisMoE/
-├── assets/                  # Figures for README
-├── configs/                 # Training and evaluation configs
-├── datasets/                # Dataset preprocessing scripts / file lists
-├── models/                  # Network definitions
-├── losses/                  # Loss functions
-├── utils/                   # Utility functions
-├── train.py                 # Training script
-├── test.py                  # Evaluation script
-├── requirements.txt         # Python dependencies
-└── README.md
