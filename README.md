@@ -8,7 +8,9 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red.svg)]()
 
 **Official implementation of the ICME 2026 paper**
-
+<div align="center">
+  <img src="img.png" alt="DisMoE Framework" width="80%">
+</div>
 </div>
 
 ---
