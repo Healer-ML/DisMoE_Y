@@ -8,7 +8,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red.svg)]()
 
 **Official implementation of the ICME 2026 paper**
-
+</div>
 ## 📰 News
 
 - **[2026]** 🎉 Our paper **“DisMoE: Can Distillation-Driven Frame-Level Mixture-of-Experts Enable Robust Micro-Expression Recognition?”** is accepted by **ICME 2026**.
